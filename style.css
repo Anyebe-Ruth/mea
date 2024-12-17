@@ -1,0 +1,59 @@
+*{
+  background: #7df9ff;
+}
+
+
+.pg1{
+  
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;}
+
+
+.Pic1{
+  background: #0065bd;
+  
+
+}
+ .pic2{
+   background: #008080;
+ }
+ .food{
+   padding: 25px;}
+   
+   
+   
+   .img {
+     float: left;
+     height: 35vh;
+     
+   }
+   
+   . parent {
+     position: absolute;
+   }
+   
+   .chart{
+   text-align: center; 
+   font-size: 35px;
+   color: #a95c68;
+   text-align: left;
+   }
+   
+  .text{
+    color: #000000;
+    font-size: 20px;
+  }
+  
+  .pro{
+    font-size: 30px;
+  }
+  
+   .lil{
+     font-size: 15px;
+   }
+   
+   .btn{
+     text-align: ;
+   }
